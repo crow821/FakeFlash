@@ -44,7 +44,7 @@
 
 # 3. [FakeFlash](https://github.com/crow821/FakeFlash)
 
-## 2023年新版：flash水坑攻击|🎣钓鱼源码
+## 2023年新版：flash水坑攻击|flash钓鱼源码
 
 公开问题：该新版flash文件其实在2021年的时候就被公开了，并不存在我是第一个公开的情况。
 
