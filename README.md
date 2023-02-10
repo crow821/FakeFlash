@@ -132,7 +132,7 @@
 
 # starred
 
-[![Stargazers over time](https://starchart.cc/crow821/FakeFlash.svg)](https://starchart.cc/crow821/crowsec) 
+[![Stargazers over time](https://starchart.cc/crow821/FakeFlash.svg)](https://starchart.cc/crow821/FakeFlash) 
 
 
 
